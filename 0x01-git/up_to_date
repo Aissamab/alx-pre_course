@@ -1,1 +1,1 @@
-the command line used to craete this file is "vi up_to_date"
+git pull origin master
